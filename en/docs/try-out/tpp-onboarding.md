@@ -45,7 +45,7 @@ The application created via the Developer Portal allows you to observe statistic
 3. Go to **Subscriptions** at the bottom of the API and select **SUBSCRIBE**.
 
 4. Select **your application** from the drop-down list then set the **Throttling Policy** and click **SUBSCRIBE**.
-   Once subscribed, the application can access all the supported services of the NextGenPSD2XS2A API resources.
+   Once subscribed, the application can access all the supported services of the NextGenPSD2XS2AFramework API resources.
 
 ### Step 5: Create and upload certificates
 
