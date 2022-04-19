@@ -1,8 +1,8 @@
-This page provides instructions to use the NextGenPsd2XS2AFramework API to provide the Account Information 
+This page provides instructions to use the NextGenPSD2XS2A API to provide the Account Information 
 Service (AIS).
 
 !!! tip "Before you begin:"
-    Deploy the [NextGenPsd2XS2AFramework API](deploy-nextgenpsd2-api.md). 
+    Deploy the [NextGenPSD2XS2A API](deploy-nextgenpsd2-api.md). 
 
 ### Generating application access token
 
@@ -655,7 +655,7 @@ the response.
 #### Authorisation URL
 
 Regardless of the authorisation flow, once the well-known configuration of the Identity Server is obtained, the TPP must 
-generate an authorisation URL for the PSU to authorise the consent. This authorisation URL must be authorised by n 
+generate an authorisation URL for the PSU to authorise the consent. This authorisation URL must be authorised by _n_ 
 number of PSUs in a multi-level authorisation context.
 
 1. The ASPSP sends the request to the PSU stating the accounts and information that the TPP wishes to access. The  
